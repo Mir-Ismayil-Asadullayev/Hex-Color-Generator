@@ -1,1 +1,1 @@
-# Hex-Color-Generator
+###https://hex-color-generator-task.netlify.app/
